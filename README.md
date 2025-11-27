@@ -8,9 +8,9 @@
 
 --- 
 
-- 🔭 I am currently working on the project: **Cuidando Huellas**
+- 🔭 I am currently working on the project: **Conglomerado**
 
-- 🌱 I am currently learning: **Nodejs and JavaScript**
+- 🌱 I am currently learning: **React and Nodejs**
 
 - 📫 Email: **jeancg2004@gmail.com**
 
